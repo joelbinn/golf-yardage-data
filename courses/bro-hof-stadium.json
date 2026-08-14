@@ -1,0 +1,703 @@
+{
+  "id": "bro-hof-stadium",
+  "name": "Bro Hof Slott – Stadium Course",
+  "clubName": "Bro Hof Slott GC",
+  "holesCount": 18,
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicapIndex": 7,
+      "green": {
+        "front": {
+          "lat": 59.284068444174316,
+          "lng": 17.96670198440552
+        },
+        "center": {
+          "lat": 59.284062964077656,
+          "lng": 17.966830730438236
+        },
+        "back": {
+          "lat": 59.28405474393105,
+          "lng": 17.96697556972504
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-1786684526572",
+          "type": "bunker",
+          "name": "Fwy bu",
+          "position": {
+            "lat": 59.28419722619144,
+            "lng": 17.96624600887299
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicapIndex": 3,
+      "green": {
+        "front": {
+          "lat": 59.55173,
+          "lng": 17.541729999999998
+        },
+        "center": {
+          "lat": 59.5519,
+          "lng": 17.5419
+        },
+        "back": {
+          "lat": 59.5521,
+          "lng": 17.542099999999998
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-1-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.551,
+            "lng": 17.5413
+          }
+        },
+        {
+          "id": "obj-1-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5516,
+            "lng": 17.5416
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicapIndex": 15,
+      "green": {
+        "front": {
+          "lat": 59.552229999999994,
+          "lng": 17.54223
+        },
+        "center": {
+          "lat": 59.5524,
+          "lng": 17.5424
+        },
+        "back": {
+          "lat": 59.5526,
+          "lng": 17.5426
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-2-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.5515,
+            "lng": 17.541800000000002
+          }
+        },
+        {
+          "id": "obj-2-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.552099999999996,
+            "lng": 17.5421
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicapIndex": 1,
+      "green": {
+        "front": {
+          "lat": 59.55273,
+          "lng": 17.54273
+        },
+        "center": {
+          "lat": 59.5529,
+          "lng": 17.5429
+        },
+        "back": {
+          "lat": 59.5531,
+          "lng": 17.5431
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-3-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.552,
+            "lng": 17.5423
+          }
+        },
+        {
+          "id": "obj-3-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5526,
+            "lng": 17.5426
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicapIndex": 11,
+      "green": {
+        "front": {
+          "lat": 59.55323,
+          "lng": 17.543229999999998
+        },
+        "center": {
+          "lat": 59.5534,
+          "lng": 17.5434
+        },
+        "back": {
+          "lat": 59.5536,
+          "lng": 17.543599999999998
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-4-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.5525,
+            "lng": 17.5428
+          }
+        },
+        {
+          "id": "obj-4-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5531,
+            "lng": 17.5431
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicapIndex": 17,
+      "green": {
+        "front": {
+          "lat": 59.553729999999995,
+          "lng": 17.54373
+        },
+        "center": {
+          "lat": 59.5539,
+          "lng": 17.5439
+        },
+        "back": {
+          "lat": 59.5541,
+          "lng": 17.5441
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-5-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.553,
+            "lng": 17.543300000000002
+          }
+        },
+        {
+          "id": "obj-5-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.553599999999996,
+            "lng": 17.5436
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicapIndex": 5,
+      "green": {
+        "front": {
+          "lat": 59.55423,
+          "lng": 17.54423
+        },
+        "center": {
+          "lat": 59.5544,
+          "lng": 17.5444
+        },
+        "back": {
+          "lat": 59.5546,
+          "lng": 17.5446
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-6-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.5535,
+            "lng": 17.5438
+          }
+        },
+        {
+          "id": "obj-6-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5541,
+            "lng": 17.5441
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicapIndex": 9,
+      "green": {
+        "front": {
+          "lat": 59.55473,
+          "lng": 17.544729999999998
+        },
+        "center": {
+          "lat": 59.5549,
+          "lng": 17.5449
+        },
+        "back": {
+          "lat": 59.5551,
+          "lng": 17.545099999999998
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-7-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.554,
+            "lng": 17.5443
+          }
+        },
+        {
+          "id": "obj-7-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5546,
+            "lng": 17.5446
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicapIndex": 13,
+      "green": {
+        "front": {
+          "lat": 59.555229999999995,
+          "lng": 17.54523
+        },
+        "center": {
+          "lat": 59.5554,
+          "lng": 17.5454
+        },
+        "back": {
+          "lat": 59.5556,
+          "lng": 17.5456
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-8-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.5545,
+            "lng": 17.544800000000002
+          }
+        },
+        {
+          "id": "obj-8-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.555099999999996,
+            "lng": 17.5451
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicapIndex": 8,
+      "green": {
+        "front": {
+          "lat": 59.55573,
+          "lng": 17.54573
+        },
+        "center": {
+          "lat": 59.5559,
+          "lng": 17.5459
+        },
+        "back": {
+          "lat": 59.5561,
+          "lng": 17.5461
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-9-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.555,
+            "lng": 17.5453
+          }
+        },
+        {
+          "id": "obj-9-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5556,
+            "lng": 17.5456
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicapIndex": 16,
+      "green": {
+        "front": {
+          "lat": 59.55623,
+          "lng": 17.546229999999998
+        },
+        "center": {
+          "lat": 59.556400000000004,
+          "lng": 17.5464
+        },
+        "back": {
+          "lat": 59.5566,
+          "lng": 17.546599999999998
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-10-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.5555,
+            "lng": 17.5458
+          }
+        },
+        {
+          "id": "obj-10-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5561,
+            "lng": 17.5461
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicapIndex": 2,
+      "green": {
+        "front": {
+          "lat": 59.556729999999995,
+          "lng": 17.54673
+        },
+        "center": {
+          "lat": 59.5569,
+          "lng": 17.5469
+        },
+        "back": {
+          "lat": 59.5571,
+          "lng": 17.5471
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-11-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.556,
+            "lng": 17.546300000000002
+          }
+        },
+        {
+          "id": "obj-11-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.556599999999996,
+            "lng": 17.5466
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicapIndex": 10,
+      "green": {
+        "front": {
+          "lat": 59.55723,
+          "lng": 17.54723
+        },
+        "center": {
+          "lat": 59.5574,
+          "lng": 17.5474
+        },
+        "back": {
+          "lat": 59.5576,
+          "lng": 17.5476
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-12-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.5565,
+            "lng": 17.5468
+          }
+        },
+        {
+          "id": "obj-12-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5571,
+            "lng": 17.5471
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicapIndex": 4,
+      "green": {
+        "front": {
+          "lat": 59.55773,
+          "lng": 17.547729999999998
+        },
+        "center": {
+          "lat": 59.557900000000004,
+          "lng": 17.5479
+        },
+        "back": {
+          "lat": 59.5581,
+          "lng": 17.548099999999998
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-13-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.557,
+            "lng": 17.5473
+          }
+        },
+        {
+          "id": "obj-13-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5576,
+            "lng": 17.5476
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicapIndex": 18,
+      "green": {
+        "front": {
+          "lat": 59.558229999999995,
+          "lng": 17.54823
+        },
+        "center": {
+          "lat": 59.5584,
+          "lng": 17.5484
+        },
+        "back": {
+          "lat": 59.5586,
+          "lng": 17.5486
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-14-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.5575,
+            "lng": 17.547800000000002
+          }
+        },
+        {
+          "id": "obj-14-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.558099999999996,
+            "lng": 17.5481
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicapIndex": 6,
+      "green": {
+        "front": {
+          "lat": 59.55873,
+          "lng": 17.54873
+        },
+        "center": {
+          "lat": 59.5589,
+          "lng": 17.5489
+        },
+        "back": {
+          "lat": 59.5591,
+          "lng": 17.5491
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-15-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.558,
+            "lng": 17.5483
+          }
+        },
+        {
+          "id": "obj-15-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5586,
+            "lng": 17.5486
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicapIndex": 12,
+      "green": {
+        "front": {
+          "lat": 59.55923,
+          "lng": 17.549229999999998
+        },
+        "center": {
+          "lat": 59.559400000000004,
+          "lng": 17.5494
+        },
+        "back": {
+          "lat": 59.5596,
+          "lng": 17.549599999999998
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-16-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.5585,
+            "lng": 17.5488
+          }
+        },
+        {
+          "id": "obj-16-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.5591,
+            "lng": 17.5491
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicapIndex": 14,
+      "green": {
+        "front": {
+          "lat": 59.559729999999995,
+          "lng": 17.54973
+        },
+        "center": {
+          "lat": 59.5599,
+          "lng": 17.5499
+        },
+        "back": {
+          "lat": 59.5601,
+          "lng": 17.5501
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-17-1",
+          "type": "bunker",
+          "name": "Fairwaybunker höger",
+          "position": {
+            "lat": 59.559,
+            "lng": 17.549300000000002
+          }
+        },
+        {
+          "id": "obj-17-2",
+          "type": "water",
+          "name": "Vattenhinder framför green",
+          "position": {
+            "lat": 59.559599999999996,
+            "lng": 17.5496
+          }
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-14T05:15:48.911Z",
+  "updatedAt": "2026-08-14T05:15:48.911Z"
+}
