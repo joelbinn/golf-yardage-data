@@ -1,0 +1,380 @@
+{
+  "id": "gesta",
+  "name": "Ågesta",
+  "clubName": "",
+  "holesCount": 18,
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicapIndex": 1,
+      "green": {
+        "front": {
+          "lat": 59.222803457279994,
+          "lng": 18.08928966522217
+        },
+        "center": {
+          "lat": 59.222847376897604,
+          "lng": 18.089482784271244
+        },
+        "back": {
+          "lat": 59.222896786399865,
+          "lng": 18.089713454246525
+        }
+      },
+      "objects": [
+        {
+          "id": "obj-1786684970425",
+          "type": "water",
+          "name": "vatten",
+          "position": {
+            "lat": 59.22281992714322,
+            "lng": 18.08661818504334
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicapIndex": 2,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicapIndex": 3,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicapIndex": 4,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicapIndex": 5,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicapIndex": 6,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicapIndex": 7,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicapIndex": 8,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicapIndex": 9,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicapIndex": 10,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicapIndex": 11,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicapIndex": 12,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicapIndex": 13,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicapIndex": 14,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicapIndex": 15,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicapIndex": 16,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicapIndex": 17,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicapIndex": 18,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    }
+  ],
+  "createdAt": "2026-08-14T05:23:07.420Z",
+  "updatedAt": "2026-08-14T05:23:07.420Z"
+}
