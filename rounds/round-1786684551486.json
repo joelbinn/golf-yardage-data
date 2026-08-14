@@ -1,0 +1,177 @@
+{
+  "id": "round-1786684551486",
+  "courseId": "bro-hof-stadium",
+  "courseName": "Bro Hof Slott – Stadium Course",
+  "date": "2026-08-14T05:15:51.486Z",
+  "unit": "meters",
+  "currentHole": 1,
+  "scores": [
+    {
+      "holeNumber": 1,
+      "par": 4,
+      "strokes": 2,
+      "putts": 2,
+      "gir": true,
+      "bunkerShots": 0,
+      "chips": 0,
+      "fairwayHit": "center"
+    },
+    {
+      "holeNumber": 2,
+      "par": 5,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 3,
+      "par": 3,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 4,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 5,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 6,
+      "par": 3,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 7,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 8,
+      "par": 5,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 9,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 10,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 11,
+      "par": 3,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 12,
+      "par": 5,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 13,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 14,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 15,
+      "par": 3,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 16,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 17,
+      "par": 5,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    },
+    {
+      "holeNumber": 18,
+      "par": 4,
+      "strokes": 0,
+      "putts": 0,
+      "gir": false,
+      "bunkerShots": 0,
+      "chips": 0
+    }
+  ],
+  "shots": [],
+  "status": "in_progress",
+  "createdAt": "2026-08-14T05:15:51.486Z",
+  "updatedAt": "2026-08-14T05:16:40.727Z"
+}
