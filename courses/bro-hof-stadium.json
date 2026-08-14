@@ -3,8 +3,6 @@
   "name": "Bro Hof Slott – Stadium Course",
   "clubName": "Bro Hof Slott GC",
   "holesCount": 18,
-  "createdAt": "2026-08-14T20:17:53.986Z",
-  "updatedAt": "2026-08-14T20:17:53.986Z",
   "holes": [
     {
       "number": 1,
@@ -12,35 +10,26 @@
       "handicapIndex": 7,
       "green": {
         "front": {
-          "lat": 59.55123,
-          "lng": 17.54123
+          "lat": 59.284068444174316,
+          "lng": 17.96670198440552
         },
         "center": {
-          "lat": 59.5514,
-          "lng": 17.5414
+          "lat": 59.284062964077656,
+          "lng": 17.966830730438236
         },
         "back": {
-          "lat": 59.5516,
-          "lng": 17.5416
+          "lat": 59.28405474393105,
+          "lng": 17.96697556972504
         }
       },
       "objects": [
         {
-          "id": "obj-0-1",
+          "id": "obj-1786684526572",
           "type": "bunker",
-          "name": "Fairwaybunker höger",
+          "name": "Fwy bu",
           "position": {
-            "lat": 59.5505,
-            "lng": 17.5408
-          }
-        },
-        {
-          "id": "obj-0-2",
-          "type": "water",
-          "name": "Vattenhinder framför green",
-          "position": {
-            "lat": 59.5511,
-            "lng": 17.5411
+            "lat": 59.28419722619144,
+            "lng": 17.96624600887299
           }
         }
       ]
@@ -708,5 +697,7 @@
         }
       ]
     }
-  ]
+  ],
+  "createdAt": "2026-08-14T05:15:48.911Z",
+  "updatedAt": "2026-08-14T05:15:48.911Z"
 }
