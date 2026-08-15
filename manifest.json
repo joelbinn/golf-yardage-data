@@ -1,11 +1,16 @@
 {
-  "lastSyncedAt": "2026-08-15T10:08:57.300Z",
-  "syncCount": 3,
+  "lastSyncedAt": "2026-08-15T10:09:14.305Z",
+  "syncCount": 4,
   "courses": [
     {
       "id": "bro-hof-stadium",
       "name": "Bro Hof Slott – Stadium Course",
-      "updatedAt": "2026-08-14T20:17:53.986Z"
+      "updatedAt": "2026-08-15T10:09:12.087Z"
+    },
+    {
+      "id": "gesta",
+      "name": "Ågesta",
+      "updatedAt": "2026-08-14T05:23:07.420Z"
     }
   ],
   "rounds": []
