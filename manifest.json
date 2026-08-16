@@ -1,7 +1,7 @@
 {
-  "lastSyncedAt": "2026-08-16T06:06:22.066Z",
-  "syncCount": 7,
-  "compactedAt": "2026-08-16T06:06:22.066Z",
+  "lastSyncedAt": "2026-08-16T07:12:32.439Z",
+  "syncCount": 8,
+  "compactedAt": "2026-08-16T07:12:32.439Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -11,7 +11,7 @@
     {
       "id": "gesta",
       "name": "Ågesta GK",
-      "updatedAt": "2026-08-16T06:06:12.543Z"
+      "updatedAt": "2026-08-16T07:12:21.788Z"
     }
   ],
   "rounds": [
@@ -33,14 +33,21 @@
       "id": "round-1786824042404",
       "courseName": "Ågesta GK",
       "date": "2026-08-15T20:00:42.404Z",
-      "updatedAt": "2026-08-16T05:58:59.373Z",
-      "status": "in_progress"
+      "updatedAt": "2026-08-16T06:06:31.005Z",
+      "status": "completed"
     },
     {
       "id": "round-1786824046204",
       "courseName": "Bro Hof Slott – Stadium Course",
       "date": "2026-08-15T20:00:46.204Z",
-      "updatedAt": "2026-08-16T05:58:59.717Z",
+      "updatedAt": "2026-08-16T06:06:43.220Z",
+      "status": "in_progress"
+    },
+    {
+      "id": "round-1786860410658",
+      "courseName": "Ågesta GK",
+      "date": "2026-08-16T06:06:50.658Z",
+      "updatedAt": "2026-08-16T06:06:50.659Z",
       "status": "in_progress"
     }
   ]
