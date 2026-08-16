@@ -170,7 +170,20 @@
     }
   ],
   "shots": [],
-  "status": "in_progress",
+  "status": "completed",
   "createdAt": "2026-08-15T20:00:42.404Z",
-  "updatedAt": "2026-08-16T05:58:59.373Z"
+  "updatedAt": "2026-08-16T06:06:31.005Z",
+  "stats": {
+    "totalScore": 0,
+    "totalPar": 0,
+    "scoreDiff": 0,
+    "totalPutts": 0,
+    "fairwaysHitCount": 0,
+    "fairwaysTotal": 0,
+    "fairwayPercentage": 0,
+    "girCount": 0,
+    "girPercentage": 0,
+    "totalBunkerShots": 0,
+    "totalChips": 0
+  }
 }
