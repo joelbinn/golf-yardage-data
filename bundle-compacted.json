@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-16T07:19:33.511Z",
+  "exportDate": "2026-08-16T07:44:58.558Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -2421,9 +2421,198 @@
         }
       ],
       "shots": [],
-      "status": "in_progress",
+      "status": "completed",
       "createdAt": "2026-08-16T07:19:32.353Z",
-      "updatedAt": "2026-08-16T07:19:32.353Z"
+      "updatedAt": "2026-08-16T07:44:45.548Z",
+      "stats": {
+        "totalScore": 0,
+        "totalPar": 0,
+        "scoreDiff": 0,
+        "totalPutts": 0,
+        "fairwaysHitCount": 0,
+        "fairwaysTotal": 0,
+        "fairwayPercentage": 0,
+        "girCount": 0,
+        "girPercentage": 0,
+        "totalBunkerShots": 0,
+        "totalChips": 0
+      }
+    },
+    {
+      "id": "round-1786866294360",
+      "courseId": "gesta",
+      "courseName": "Ågesta GK",
+      "date": "2026-08-16T07:44:54.360Z",
+      "unit": "meters",
+      "currentHole": 1,
+      "scores": [
+        {
+          "holeNumber": 1,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 2,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 3,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 4,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 5,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 6,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 7,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 8,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 9,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 10,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 11,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 12,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 13,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 14,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 15,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 16,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 17,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 18,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        }
+      ],
+      "shots": [],
+      "status": "in_progress",
+      "createdAt": "2026-08-16T07:44:54.360Z",
+      "updatedAt": "2026-08-16T07:44:54.361Z"
     }
   ]
 }
