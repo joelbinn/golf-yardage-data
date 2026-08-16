@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-16T05:31:25.763Z",
+  "exportDate": "2026-08-16T05:59:07.208Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -693,7 +693,7 @@
         }
       ],
       "createdAt": "2026-08-15T20:00:40.914Z",
-      "updatedAt": "2026-08-16T05:31:15.644Z"
+      "updatedAt": "2026-08-16T05:58:58.108Z"
     },
     {
       "id": "gesta",
@@ -1091,7 +1091,7 @@
         }
       ],
       "createdAt": "2026-08-15T19:47:11.236Z",
-      "updatedAt": "2026-08-16T05:31:16.301Z"
+      "updatedAt": "2026-08-16T05:58:58.471Z"
     }
   ],
   "rounds": [
@@ -1269,7 +1269,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T10:09:52.670Z",
-      "updatedAt": "2026-08-16T05:31:16.769Z",
+      "updatedAt": "2026-08-16T05:58:59.024Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -1456,9 +1456,22 @@
         }
       ],
       "shots": [],
-      "status": "in_progress",
+      "status": "completed",
       "createdAt": "2026-08-15T10:51:28.532Z",
-      "updatedAt": "2026-08-16T05:31:17.187Z"
+      "updatedAt": "2026-08-16T05:58:54.204Z",
+      "stats": {
+        "totalScore": 0,
+        "totalPar": 0,
+        "scoreDiff": 0,
+        "totalPutts": 0,
+        "fairwaysHitCount": 0,
+        "fairwaysTotal": 0,
+        "fairwayPercentage": 0,
+        "girCount": 0,
+        "girPercentage": 0,
+        "totalBunkerShots": 0,
+        "totalChips": 0
+      }
     },
     {
       "id": "round-1786824042404",
@@ -1634,7 +1647,7 @@
       "shots": [],
       "status": "in_progress",
       "createdAt": "2026-08-15T20:00:42.404Z",
-      "updatedAt": "2026-08-16T05:31:17.878Z"
+      "updatedAt": "2026-08-16T05:58:59.373Z"
     },
     {
       "id": "round-1786824046204",
@@ -1810,7 +1823,7 @@
       "shots": [],
       "status": "in_progress",
       "createdAt": "2026-08-15T20:00:46.204Z",
-      "updatedAt": "2026-08-16T05:31:18.292Z"
+      "updatedAt": "2026-08-16T05:58:59.717Z"
     }
   ]
 }
