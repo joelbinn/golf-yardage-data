@@ -1,0 +1,381 @@
+{
+  "id": "degeberga-widtsk-vle-gk",
+  "name": "Degeberga Widtskövle GK",
+  "clubName": "",
+  "holesCount": 18,
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicapIndex": 1,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 55.82446325804736,
+          "lng": 14.122423442220398
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": [],
+      "tees": [
+        {
+          "id": "tee-1786902808953",
+          "name": "Gul",
+          "color": "#eab308",
+          "position": {
+            "lat": 55.82092356557738,
+            "lng": 14.12684805786699
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicapIndex": 2,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicapIndex": 3,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicapIndex": 4,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicapIndex": 5,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicapIndex": 6,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicapIndex": 7,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicapIndex": 8,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicapIndex": 9,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicapIndex": 10,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicapIndex": 11,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicapIndex": 12,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicapIndex": 13,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicapIndex": 14,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicapIndex": 15,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicapIndex": 16,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicapIndex": 17,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicapIndex": 18,
+      "green": {
+        "front": {
+          "lat": 0,
+          "lng": 0
+        },
+        "center": {
+          "lat": 0,
+          "lng": 0
+        },
+        "back": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "objects": []
+    }
+  ],
+  "createdAt": "2026-08-16T17:53:51.223Z",
+  "updatedAt": "2026-08-16T17:53:51.223Z"
+}
