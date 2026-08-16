@@ -1,7 +1,7 @@
 {
-  "lastSyncedAt": "2026-08-16T07:19:32.495Z",
-  "syncCount": 10,
-  "compactedAt": "2026-08-16T07:19:32.495Z",
+  "lastSyncedAt": "2026-08-16T07:44:57.741Z",
+  "syncCount": 11,
+  "compactedAt": "2026-08-16T07:44:57.741Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -55,6 +55,13 @@
       "courseName": "Ågesta GK",
       "date": "2026-08-16T07:13:05.287Z",
       "updatedAt": "2026-08-16T07:19:20.504Z",
+      "status": "completed"
+    },
+    {
+      "id": "round-1786864772353",
+      "courseName": "Ågesta GK",
+      "date": "2026-08-16T07:19:32.353Z",
+      "updatedAt": "2026-08-16T07:44:45.548Z",
       "status": "completed"
     }
   ]
