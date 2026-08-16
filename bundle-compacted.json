@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-16T06:06:22.853Z",
+  "exportDate": "2026-08-16T07:12:33.155Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -758,7 +758,16 @@
                 "lng": 18.08468967676163
               }
             }
-          ]
+          ],
+          "targetLine": {
+            "teeId": "tee-1786860363393",
+            "waypoints": [
+              {
+                "lat": 59.222911883733495,
+                "lng": 18.08781981468201
+              }
+            ]
+          }
         },
         {
           "number": 2,
@@ -1101,8 +1110,8 @@
           "objects": []
         }
       ],
-      "createdAt": "2026-08-16T06:06:12.542Z",
-      "updatedAt": "2026-08-16T06:06:12.543Z"
+      "createdAt": "2026-08-16T07:12:21.788Z",
+      "updatedAt": "2026-08-16T07:12:21.788Z"
     }
   ],
   "rounds": [
@@ -1656,9 +1665,22 @@
         }
       ],
       "shots": [],
-      "status": "in_progress",
+      "status": "completed",
       "createdAt": "2026-08-15T20:00:42.404Z",
-      "updatedAt": "2026-08-16T05:58:59.373Z"
+      "updatedAt": "2026-08-16T06:06:31.005Z",
+      "stats": {
+        "totalScore": 0,
+        "totalPar": 0,
+        "scoreDiff": 0,
+        "totalPutts": 0,
+        "fairwaysHitCount": 0,
+        "fairwaysTotal": 0,
+        "fairwayPercentage": 0,
+        "girCount": 0,
+        "girPercentage": 0,
+        "totalBunkerShots": 0,
+        "totalChips": 0
+      }
     },
     {
       "id": "round-1786824046204",
@@ -1834,7 +1856,183 @@
       "shots": [],
       "status": "in_progress",
       "createdAt": "2026-08-15T20:00:46.204Z",
-      "updatedAt": "2026-08-16T05:58:59.717Z"
+      "updatedAt": "2026-08-16T06:06:43.220Z"
+    },
+    {
+      "id": "round-1786860410658",
+      "courseId": "gesta",
+      "courseName": "Ågesta GK",
+      "date": "2026-08-16T06:06:50.658Z",
+      "unit": "meters",
+      "currentHole": 1,
+      "scores": [
+        {
+          "holeNumber": 1,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 2,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 3,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 4,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 5,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 6,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 7,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 8,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 9,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 10,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 11,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 12,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 13,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 14,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 15,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 16,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 17,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 18,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        }
+      ],
+      "shots": [],
+      "status": "in_progress",
+      "createdAt": "2026-08-16T06:06:50.658Z",
+      "updatedAt": "2026-08-16T06:06:50.659Z"
     }
   ]
 }
