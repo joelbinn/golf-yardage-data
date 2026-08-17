@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-17T13:17:45.007Z",
+  "exportDate": "2026-08-17T13:42:57.299Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -696,387 +696,6 @@
       "updatedAt": "2026-08-17T13:17:25.052Z"
     },
     {
-      "id": "degeberga-widtsk-vle-gk",
-      "name": "Degeberga Widtskövle GK",
-      "clubName": "",
-      "holesCount": 18,
-      "holes": [
-        {
-          "number": 1,
-          "par": 5,
-          "handicapIndex": 1,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 55.82446325804736,
-              "lng": 14.122423442220398
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": [],
-          "tees": [
-            {
-              "id": "tee-1786902808953",
-              "name": "Gul",
-              "color": "#eab308",
-              "position": {
-                "lat": 55.82092356557738,
-                "lng": 14.12684805786699
-              }
-            }
-          ]
-        },
-        {
-          "number": 2,
-          "par": 4,
-          "handicapIndex": 2,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 3,
-          "par": 4,
-          "handicapIndex": 3,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 4,
-          "par": 4,
-          "handicapIndex": 4,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 5,
-          "par": 4,
-          "handicapIndex": 5,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 6,
-          "par": 4,
-          "handicapIndex": 6,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 7,
-          "par": 4,
-          "handicapIndex": 7,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 8,
-          "par": 4,
-          "handicapIndex": 8,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 9,
-          "par": 4,
-          "handicapIndex": 9,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 10,
-          "par": 4,
-          "handicapIndex": 10,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 11,
-          "par": 4,
-          "handicapIndex": 11,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 12,
-          "par": 4,
-          "handicapIndex": 12,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 13,
-          "par": 4,
-          "handicapIndex": 13,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 14,
-          "par": 4,
-          "handicapIndex": 14,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 15,
-          "par": 4,
-          "handicapIndex": 15,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 16,
-          "par": 4,
-          "handicapIndex": 16,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 17,
-          "par": 4,
-          "handicapIndex": 17,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 18,
-          "par": 4,
-          "handicapIndex": 18,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        }
-      ],
-      "createdAt": "2026-08-16T17:53:51.223Z",
-      "updatedAt": "2026-08-17T13:17:25.514Z"
-    },
-    {
       "id": "gesta",
       "name": "Ågesta GK",
       "clubName": "",
@@ -1493,6 +1112,448 @@
       ],
       "createdAt": "2026-08-16T07:12:21.788Z",
       "updatedAt": "2026-08-17T13:17:25.821Z"
+    },
+    {
+      "id": "degeberga-widtsk-vle-gk",
+      "name": "Degeberga Widtskövle GK",
+      "clubName": "",
+      "holesCount": 18,
+      "holes": [
+        {
+          "number": 1,
+          "par": 5,
+          "handicapIndex": 1,
+          "green": {
+            "front": {
+              "lat": 55.82438181728358,
+              "lng": 14.122512240739217
+            },
+            "center": {
+              "lat": 55.82446325804736,
+              "lng": 14.122423442220398
+            },
+            "back": {
+              "lat": 55.82453376493068,
+              "lng": 14.122333605213845
+            }
+          },
+          "objects": [
+            {
+              "id": "obj-1786973890168",
+              "type": "bunker",
+              "name": "Fwybu 1 hö",
+              "position": {
+                "lat": 55.82208302957311,
+                "lng": 14.12545061608154
+              }
+            },
+            {
+              "id": "obj-1786973925331",
+              "type": "bunker",
+              "name": "Fwybu 2 hö",
+              "position": {
+                "lat": 55.82289078035079,
+                "lng": 14.124749096996158
+              }
+            },
+            {
+              "id": "obj-1786973945056",
+              "type": "custom",
+              "name": "Svacka",
+              "position": {
+                "lat": 55.82370340966455,
+                "lng": 14.12338527417804
+              }
+            }
+          ],
+          "tees": [
+            {
+              "id": "tee-1786902808953",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.82092356557738,
+                "lng": 14.12684805786699
+              }
+            }
+          ],
+          "targetLine": {
+            "teeId": "tee-1786902808953",
+            "waypoints": [
+              {
+                "lat": 55.82227300212178,
+                "lng": 14.124964774668358
+              },
+              {
+                "lat": 55.82342403292237,
+                "lng": 14.123610973611662
+              }
+            ]
+          }
+        },
+        {
+          "number": 2,
+          "par": 4,
+          "handicapIndex": 2,
+          "green": {
+            "front": {
+              "lat": 55.826308311704146,
+              "lng": 14.119407279039226
+            },
+            "center": {
+              "lat": 55.82635894724891,
+              "lng": 14.11920726299286
+            },
+            "back": {
+              "lat": 55.826408789453886,
+              "lng": 14.11903325592447
+            }
+          },
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1786974063165",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.82532540292343,
+                "lng": 14.12370800971985
+              }
+            }
+          ],
+          "targetLine": {
+            "teeId": "tee-1786974063165",
+            "waypoints": [
+              {
+                "lat": 55.825792915898624,
+                "lng": 14.1205870262844
+              }
+            ]
+          }
+        },
+        {
+          "number": 3,
+          "par": 4,
+          "handicapIndex": 3,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 4,
+          "par": 4,
+          "handicapIndex": 4,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 5,
+          "par": 4,
+          "handicapIndex": 5,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 6,
+          "par": 4,
+          "handicapIndex": 6,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 7,
+          "par": 4,
+          "handicapIndex": 7,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 8,
+          "par": 4,
+          "handicapIndex": 8,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 9,
+          "par": 4,
+          "handicapIndex": 9,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 10,
+          "par": 4,
+          "handicapIndex": 10,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 11,
+          "par": 4,
+          "handicapIndex": 11,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 12,
+          "par": 4,
+          "handicapIndex": 12,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 13,
+          "par": 4,
+          "handicapIndex": 13,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 14,
+          "par": 4,
+          "handicapIndex": 14,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 15,
+          "par": 4,
+          "handicapIndex": 15,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 16,
+          "par": 4,
+          "handicapIndex": 16,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 17,
+          "par": 4,
+          "handicapIndex": 17,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 18,
+          "par": 4,
+          "handicapIndex": 18,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        }
+      ],
+      "createdAt": "2026-08-17T13:42:23.803Z",
+      "updatedAt": "2026-08-17T13:42:23.803Z"
     }
   ],
   "rounds": [
