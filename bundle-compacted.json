@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-18T13:51:20.020Z",
+  "exportDate": "2026-08-18T13:52:53.038Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -3530,11 +3530,12 @@
         {
           "holeNumber": 5,
           "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
+          "strokes": 1,
+          "putts": 1,
+          "gir": true,
           "bunkerShots": 0,
-          "chips": 0
+          "chips": 0,
+          "fairwayHit": "center"
         },
         {
           "holeNumber": 6,
@@ -3684,11 +3685,26 @@
           "distanceMeters": 145,
           "club": "Hybrid",
           "timestamp": "2026-08-18T12:58:42.833Z"
+        },
+        {
+          "id": "shot-1787061146791",
+          "holeNumber": 5,
+          "startPosition": {
+            "lat": 55.8280538,
+            "lng": 14.1292276
+          },
+          "endPosition": {
+            "lat": 55.8280538,
+            "lng": 14.1292276
+          },
+          "distanceMeters": 0,
+          "club": "Driver",
+          "timestamp": "2026-08-18T13:52:26.791Z"
         }
       ],
       "status": "in_progress",
       "createdAt": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-18T13:51:01.541Z"
+      "updatedAt": "2026-08-18T13:52:29.353Z"
     }
   ]
 }
