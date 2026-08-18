@@ -79,7 +79,7 @@
     {
       "number": 2,
       "par": 4,
-      "handicapIndex": 2,
+      "handicapIndex": 13,
       "green": {
         "front": {
           "lat": 55.826308311704146,
@@ -129,7 +129,7 @@
     {
       "number": 3,
       "par": 4,
-      "handicapIndex": 3,
+      "handicapIndex": 5,
       "green": {
         "front": {
           "lat": 0,
@@ -168,8 +168,8 @@
     },
     {
       "number": 4,
-      "par": 4,
-      "handicapIndex": 4,
+      "par": 3,
+      "handicapIndex": 17,
       "green": {
         "front": {
           "lat": 0,
@@ -209,7 +209,7 @@
     {
       "number": 5,
       "par": 4,
-      "handicapIndex": 5,
+      "handicapIndex": 7,
       "green": {
         "front": {
           "lat": 0,
@@ -235,7 +235,16 @@
             "lng": 14.1319285
           }
         }
-      ]
+      ],
+      "targetLine": {
+        "teeId": "tee-1787060907439",
+        "waypoints": [
+          {
+            "lat": 55.82794649423032,
+            "lng": 14.129137791043334
+          }
+        ]
+      }
     },
     {
       "number": 6,
@@ -531,6 +540,6 @@
       "objects": []
     }
   ],
-  "createdAt": "2026-08-18T16:02:17.051Z",
-  "updatedAt": "2026-08-18T16:02:17.051Z"
+  "createdAt": "2026-08-18T16:05:46.625Z",
+  "updatedAt": "2026-08-18T16:05:46.625Z"
 }
