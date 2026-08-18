@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-18T13:52:53.038Z",
+  "exportDate": "2026-08-18T15:55:55.388Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -693,7 +693,514 @@
         }
       ],
       "createdAt": "2026-08-15T20:00:40.914Z",
-      "updatedAt": "2026-08-17T20:23:10.205Z"
+      "updatedAt": "2026-08-18T15:55:30.465Z"
+    },
+    {
+      "id": "degeberga-widtsk-vle-gk",
+      "name": "Degeberga Widtskövle GK",
+      "clubName": "",
+      "holesCount": 18,
+      "holes": [
+        {
+          "number": 1,
+          "par": 5,
+          "handicapIndex": 1,
+          "green": {
+            "front": {
+              "lat": 55.82438181728358,
+              "lng": 14.122512240739217
+            },
+            "center": {
+              "lat": 55.8276707,
+              "lng": 14.1272427
+            },
+            "back": {
+              "lat": 55.82453376493068,
+              "lng": 14.122333605213845
+            }
+          },
+          "objects": [
+            {
+              "id": "obj-1786973890168",
+              "type": "bunker",
+              "name": "Fwybu 1 hö",
+              "position": {
+                "lat": 55.82208302957311,
+                "lng": 14.12545061608154
+              }
+            },
+            {
+              "id": "obj-1786973925331",
+              "type": "bunker",
+              "name": "Fwybu 2 hö",
+              "position": {
+                "lat": 55.82289078035079,
+                "lng": 14.124749096996158
+              }
+            },
+            {
+              "id": "obj-1786973945056",
+              "type": "custom",
+              "name": "Svacka",
+              "position": {
+                "lat": 55.82370340966455,
+                "lng": 14.12338527417804
+              }
+            }
+          ],
+          "tees": [
+            {
+              "id": "tee-1787059408816",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.8264496,
+                "lng": 14.1210859
+              }
+            }
+          ],
+          "targetLine": {
+            "teeId": "tee-1787059408816",
+            "waypoints": [
+              {
+                "lat": 55.82227300212178,
+                "lng": 14.124964774668358
+              },
+              {
+                "lat": 55.82342403292237,
+                "lng": 14.123610973611662
+              }
+            ]
+          }
+        },
+        {
+          "number": 2,
+          "par": 4,
+          "handicapIndex": 2,
+          "green": {
+            "front": {
+              "lat": 55.826308311704146,
+              "lng": 14.119407279039226
+            },
+            "center": {
+              "lat": 55.82635894724891,
+              "lng": 14.11920726299286
+            },
+            "back": {
+              "lat": 55.826408789453886,
+              "lng": 14.11903325592447
+            }
+          },
+          "objects": [
+            {
+              "id": "obj-1786974181569",
+              "type": "bunker",
+              "name": "Fwybu hö",
+              "position": {
+                "lat": 55.825908682594196,
+                "lng": 14.120879848873177
+              }
+            }
+          ],
+          "tees": [
+            {
+              "id": "tee-1787058446088",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.8253541,
+                "lng": 14.1239593
+              }
+            }
+          ],
+          "targetLine": {
+            "teeId": "tee-1787058446088",
+            "waypoints": [
+              {
+                "lat": 55.825792915898624,
+                "lng": 14.1205870262844
+              }
+            ]
+          }
+        },
+        {
+          "number": 3,
+          "par": 4,
+          "handicapIndex": 3,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 55.8266072,
+              "lng": 14.1268012
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787060058377",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.82646397400192,
+                "lng": 14.121046932492678
+              }
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "par": 4,
+          "handicapIndex": 4,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 5,
+          "par": 4,
+          "handicapIndex": 5,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 55.8276839,
+              "lng": 14.1272593
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787060907439",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.8283731,
+                "lng": 14.1319285
+              }
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "par": 4,
+          "handicapIndex": 6,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 55.82790475928181,
+              "lng": 14.121750299653034
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787061543328",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.8273669,
+                "lng": 14.1261903
+              }
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "par": 4,
+          "handicapIndex": 7,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 8,
+          "par": 4,
+          "handicapIndex": 8,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 55.822829682755966,
+              "lng": 14.122808310052562
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787062874588",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.8262233,
+                "lng": 14.1185821
+              }
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "par": 4,
+          "handicapIndex": 9,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 55.8201071,
+              "lng": 14.1266277
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787063672378",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.8224346,
+                "lng": 14.1234456
+              }
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "par": 4,
+          "handicapIndex": 10,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 11,
+          "par": 4,
+          "handicapIndex": 11,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 12,
+          "par": 4,
+          "handicapIndex": 12,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 13,
+          "par": 4,
+          "handicapIndex": 13,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 14,
+          "par": 4,
+          "handicapIndex": 14,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 15,
+          "par": 4,
+          "handicapIndex": 15,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 16,
+          "par": 4,
+          "handicapIndex": 16,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 17,
+          "par": 4,
+          "handicapIndex": 17,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        },
+        {
+          "number": 18,
+          "par": 4,
+          "handicapIndex": 18,
+          "green": {
+            "front": {
+              "lat": 0,
+              "lng": 0
+            },
+            "center": {
+              "lat": 0,
+              "lng": 0
+            },
+            "back": {
+              "lat": 0,
+              "lng": 0
+            }
+          },
+          "objects": []
+        }
+      ],
+      "createdAt": "2026-08-18T14:42:13.765Z",
+      "updatedAt": "2026-08-18T15:55:31.435Z"
     },
     {
       "id": "gesta",
@@ -1111,481 +1618,7 @@
         }
       ],
       "createdAt": "2026-08-16T07:12:21.788Z",
-      "updatedAt": "2026-08-17T20:23:10.847Z"
-    },
-    {
-      "id": "degeberga-widtsk-vle-gk",
-      "name": "Degeberga Widtskövle GK",
-      "clubName": "",
-      "holesCount": 18,
-      "holes": [
-        {
-          "number": 1,
-          "par": 5,
-          "handicapIndex": 1,
-          "green": {
-            "front": {
-              "lat": 55.82438181728358,
-              "lng": 14.122512240739217
-            },
-            "center": {
-              "lat": 55.82446325804736,
-              "lng": 14.122423442220398
-            },
-            "back": {
-              "lat": 55.82453376493068,
-              "lng": 14.122333605213845
-            }
-          },
-          "objects": [
-            {
-              "id": "obj-1786973890168",
-              "type": "bunker",
-              "name": "Fwybu 1 hö",
-              "position": {
-                "lat": 55.82208302957311,
-                "lng": 14.12545061608154
-              }
-            },
-            {
-              "id": "obj-1786973925331",
-              "type": "bunker",
-              "name": "Fwybu 2 hö",
-              "position": {
-                "lat": 55.82289078035079,
-                "lng": 14.124749096996158
-              }
-            },
-            {
-              "id": "obj-1786973945056",
-              "type": "custom",
-              "name": "Svacka",
-              "position": {
-                "lat": 55.82370340966455,
-                "lng": 14.12338527417804
-              }
-            }
-          ],
-          "tees": [
-            {
-              "id": "tee-1787059408816",
-              "name": "Gul",
-              "color": "#eab308",
-              "position": {
-                "lat": 55.8264496,
-                "lng": 14.1210859
-              }
-            }
-          ],
-          "targetLine": {
-            "teeId": "tee-1787059408816",
-            "waypoints": [
-              {
-                "lat": 55.82227300212178,
-                "lng": 14.124964774668358
-              },
-              {
-                "lat": 55.82342403292237,
-                "lng": 14.123610973611662
-              }
-            ]
-          }
-        },
-        {
-          "number": 2,
-          "par": 4,
-          "handicapIndex": 2,
-          "green": {
-            "front": {
-              "lat": 55.826308311704146,
-              "lng": 14.119407279039226
-            },
-            "center": {
-              "lat": 55.82635894724891,
-              "lng": 14.11920726299286
-            },
-            "back": {
-              "lat": 55.826408789453886,
-              "lng": 14.11903325592447
-            }
-          },
-          "objects": [
-            {
-              "id": "obj-1786974181569",
-              "type": "bunker",
-              "name": "Fwybu hö",
-              "position": {
-                "lat": 55.825908682594196,
-                "lng": 14.120879848873177
-              }
-            }
-          ],
-          "tees": [
-            {
-              "id": "tee-1787058446088",
-              "name": "Gul",
-              "color": "#eab308",
-              "position": {
-                "lat": 55.8253541,
-                "lng": 14.1239593
-              }
-            }
-          ],
-          "targetLine": {
-            "teeId": "tee-1787058446088",
-            "waypoints": [
-              {
-                "lat": 55.825792915898624,
-                "lng": 14.1205870262844
-              }
-            ]
-          }
-        },
-        {
-          "number": 3,
-          "par": 4,
-          "handicapIndex": 3,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 55.8266072,
-              "lng": 14.1268012
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": [],
-          "tees": [
-            {
-              "id": "tee-1787060058377",
-              "name": "Gul",
-              "color": "#eab308",
-              "position": {
-                "lat": 55.82646397400192,
-                "lng": 14.121046932492678
-              }
-            }
-          ]
-        },
-        {
-          "number": 4,
-          "par": 4,
-          "handicapIndex": 4,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 5,
-          "par": 4,
-          "handicapIndex": 5,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": [],
-          "tees": [
-            {
-              "id": "tee-1787060907439",
-              "name": "Gul",
-              "color": "#eab308",
-              "position": {
-                "lat": 55.8283731,
-                "lng": 14.1319285
-              }
-            }
-          ]
-        },
-        {
-          "number": 6,
-          "par": 4,
-          "handicapIndex": 6,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 7,
-          "par": 4,
-          "handicapIndex": 7,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 8,
-          "par": 4,
-          "handicapIndex": 8,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 9,
-          "par": 4,
-          "handicapIndex": 9,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 10,
-          "par": 4,
-          "handicapIndex": 10,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 11,
-          "par": 4,
-          "handicapIndex": 11,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 12,
-          "par": 4,
-          "handicapIndex": 12,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 13,
-          "par": 4,
-          "handicapIndex": 13,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 14,
-          "par": 4,
-          "handicapIndex": 14,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 15,
-          "par": 4,
-          "handicapIndex": 15,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 16,
-          "par": 4,
-          "handicapIndex": 16,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 17,
-          "par": 4,
-          "handicapIndex": 17,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        },
-        {
-          "number": 18,
-          "par": 4,
-          "handicapIndex": 18,
-          "green": {
-            "front": {
-              "lat": 0,
-              "lng": 0
-            },
-            "center": {
-              "lat": 0,
-              "lng": 0
-            },
-            "back": {
-              "lat": 0,
-              "lng": 0
-            }
-          },
-          "objects": []
-        }
-      ],
-      "createdAt": "2026-08-18T13:48:31.014Z",
-      "updatedAt": "2026-08-18T13:48:31.014Z"
+      "updatedAt": "2026-08-18T15:55:31.016Z"
     }
   ],
   "rounds": [
@@ -1763,7 +1796,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T10:09:52.670Z",
-      "updatedAt": "2026-08-17T20:23:11.980Z",
+      "updatedAt": "2026-08-18T15:55:31.912Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -1952,7 +1985,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T10:51:28.532Z",
-      "updatedAt": "2026-08-17T20:23:12.610Z",
+      "updatedAt": "2026-08-18T15:55:32.471Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2141,7 +2174,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T20:00:42.404Z",
-      "updatedAt": "2026-08-17T20:23:13.317Z",
+      "updatedAt": "2026-08-18T15:55:33.000Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2330,7 +2363,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T20:00:46.204Z",
-      "updatedAt": "2026-08-17T20:23:14.038Z",
+      "updatedAt": "2026-08-18T15:55:33.512Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2519,7 +2552,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T06:06:50.658Z",
-      "updatedAt": "2026-08-17T20:23:14.885Z",
+      "updatedAt": "2026-08-18T15:55:33.989Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2708,7 +2741,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T07:13:05.287Z",
-      "updatedAt": "2026-08-17T20:23:15.602Z",
+      "updatedAt": "2026-08-18T15:55:34.494Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2897,7 +2930,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T07:19:32.353Z",
-      "updatedAt": "2026-08-17T20:23:16.108Z",
+      "updatedAt": "2026-08-18T15:55:35.216Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -3086,7 +3119,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T07:44:54.360Z",
-      "updatedAt": "2026-08-17T20:23:17.348Z",
+      "updatedAt": "2026-08-18T15:55:35.827Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -3275,7 +3308,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T10:14:11.331Z",
-      "updatedAt": "2026-08-17T20:24:33.851Z",
+      "updatedAt": "2026-08-18T15:55:36.338Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -3289,198 +3322,6 @@
         "totalBunkerShots": 0,
         "totalChips": 0
       }
-    },
-    {
-      "id": "round-1786974209290",
-      "courseId": "degeberga-widtsk-vle-gk",
-      "courseName": "Degeberga Widtskövle GK",
-      "date": "2026-08-17T13:43:29.290Z",
-      "unit": "meters",
-      "currentHole": 3,
-      "scores": [
-        {
-          "holeNumber": 1,
-          "par": 5,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 2,
-          "par": 4,
-          "strokes": 3,
-          "putts": 1,
-          "gir": true,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 3,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 4,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 5,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 6,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 7,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 8,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 9,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 10,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 11,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 12,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 13,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 14,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 15,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 16,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 17,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 18,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        }
-      ],
-      "shots": [
-        {
-          "id": "shot-1787058883261",
-          "holeNumber": 2,
-          "startPosition": {
-            "lat": 55.826308311704146,
-            "lng": 14.119407279039226
-          },
-          "endPosition": {
-            "lat": 55.8256571,
-            "lng": 14.120884
-          },
-          "distanceMeters": 117,
-          "club": "Driver",
-          "timestamp": "2026-08-18T13:14:43.261Z"
-        }
-      ],
-      "status": "in_progress",
-      "createdAt": "2026-08-17T13:43:29.290Z",
-      "updatedAt": "2026-08-18T13:24:13.699Z"
     },
     {
       "id": "round-1786902871175",
@@ -3704,7 +3545,199 @@
       ],
       "status": "in_progress",
       "createdAt": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-18T13:52:29.353Z"
+      "updatedAt": "2026-08-18T15:55:37.363Z"
+    },
+    {
+      "id": "round-1786974209290",
+      "courseId": "degeberga-widtsk-vle-gk",
+      "courseName": "Degeberga Widtskövle GK",
+      "date": "2026-08-17T13:43:29.290Z",
+      "unit": "meters",
+      "currentHole": 3,
+      "scores": [
+        {
+          "holeNumber": 1,
+          "par": 5,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 2,
+          "par": 4,
+          "strokes": 3,
+          "putts": 1,
+          "gir": true,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 3,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 4,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 5,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 6,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 7,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 8,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 9,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 10,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 11,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 12,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 13,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 14,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 15,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 16,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 17,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 18,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        }
+      ],
+      "shots": [
+        {
+          "id": "shot-1787058883261",
+          "holeNumber": 2,
+          "startPosition": {
+            "lat": 55.826308311704146,
+            "lng": 14.119407279039226
+          },
+          "endPosition": {
+            "lat": 55.8256571,
+            "lng": 14.120884
+          },
+          "distanceMeters": 117,
+          "club": "Driver",
+          "timestamp": "2026-08-18T13:14:43.261Z"
+        }
+      ],
+      "status": "in_progress",
+      "createdAt": "2026-08-17T13:43:29.290Z",
+      "updatedAt": "2026-08-18T15:55:36.828Z"
     }
   ]
 }
