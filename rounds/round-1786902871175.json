@@ -4,16 +4,17 @@
   "courseName": "Degeberga Widtskövle GK",
   "date": "2026-08-16T17:54:31.175Z",
   "unit": "meters",
-  "currentHole": 2,
+  "currentHole": 1,
   "scores": [
     {
       "holeNumber": 1,
       "par": 5,
-      "strokes": 0,
-      "putts": 0,
-      "gir": false,
+      "strokes": 1,
+      "putts": 1,
+      "gir": true,
       "bunkerShots": 0,
-      "chips": 0
+      "chips": 0,
+      "fairwayHit": "center"
     },
     {
       "holeNumber": 2,
@@ -169,8 +170,24 @@
       "chips": 0
     }
   ],
-  "shots": [],
+  "shots": [
+    {
+      "id": "shot-1787057682040",
+      "holeNumber": 1,
+      "startPosition": {
+        "lat": 55.82438181728358,
+        "lng": 14.122512240739217
+      },
+      "endPosition": {
+        "lat": 55.822007,
+        "lng": 14.1254521
+      },
+      "distanceMeters": 322,
+      "club": "Driver",
+      "timestamp": "2026-08-18T12:54:42.040Z"
+    }
+  ],
   "status": "in_progress",
   "createdAt": "2026-08-16T17:54:31.175Z",
-  "updatedAt": "2026-08-16T17:54:31.175Z"
+  "updatedAt": "2026-08-18T12:54:35.955Z"
 }
