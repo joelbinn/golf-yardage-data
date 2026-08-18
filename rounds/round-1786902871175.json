@@ -4,7 +4,7 @@
   "courseName": "Degeberga Widtskövle GK",
   "date": "2026-08-16T17:54:31.175Z",
   "unit": "meters",
-  "currentHole": 9,
+  "currentHole": 10,
   "scores": [
     {
       "holeNumber": 1,
@@ -220,5 +220,5 @@
   ],
   "status": "in_progress",
   "createdAt": "2026-08-16T17:54:31.175Z",
-  "updatedAt": "2026-08-18T16:09:22.971Z"
+  "updatedAt": "2026-08-18T16:51:10.097Z"
 }
