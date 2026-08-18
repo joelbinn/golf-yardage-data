@@ -18,9 +18,9 @@
     {
       "holeNumber": 2,
       "par": 4,
-      "strokes": 0,
-      "putts": 0,
-      "gir": false,
+      "strokes": 1,
+      "putts": 1,
+      "gir": true,
       "bunkerShots": 0,
       "chips": 0
     },
@@ -169,8 +169,24 @@
       "chips": 0
     }
   ],
-  "shots": [],
+  "shots": [
+    {
+      "id": "shot-1787058883261",
+      "holeNumber": 2,
+      "startPosition": {
+        "lat": 55.826308311704146,
+        "lng": 14.119407279039226
+      },
+      "endPosition": {
+        "lat": 55.8256571,
+        "lng": 14.120884
+      },
+      "distanceMeters": 117,
+      "club": "Driver",
+      "timestamp": "2026-08-18T13:14:43.261Z"
+    }
+  ],
   "status": "in_progress",
   "createdAt": "2026-08-17T13:43:29.290Z",
-  "updatedAt": "2026-08-17T20:23:17.882Z"
+  "updatedAt": "2026-08-18T13:14:43.262Z"
 }
