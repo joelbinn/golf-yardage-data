@@ -1,7 +1,7 @@
 {
-  "lastSyncedAt": "2026-08-17T20:24:58.890Z",
-  "syncCount": 19,
-  "compactedAt": "2026-08-17T20:24:58.890Z",
+  "lastSyncedAt": "2026-08-18T12:55:00.102Z",
+  "syncCount": 20,
+  "compactedAt": "2026-08-18T12:55:00.102Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -9,14 +9,14 @@
       "updatedAt": "2026-08-17T20:23:10.205Z"
     },
     {
-      "id": "degeberga-widtsk-vle-gk",
-      "name": "Degeberga Widtskövle GK",
-      "updatedAt": "2026-08-17T20:23:11.481Z"
-    },
-    {
       "id": "gesta",
       "name": "Ågesta GK",
       "updatedAt": "2026-08-17T20:23:10.847Z"
+    },
+    {
+      "id": "degeberga-widtsk-vle-gk",
+      "name": "Degeberga Widtskövle GK",
+      "updatedAt": "2026-08-18T12:49:44.127Z"
     }
   ],
   "rounds": [
@@ -77,11 +77,11 @@
       "status": "completed"
     },
     {
-      "id": "round-1786902871175",
-      "courseName": "Degeberga Widtskövle GK",
-      "date": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-16T17:54:31.175Z",
-      "status": "in_progress"
+      "id": "round-1786875251331",
+      "courseName": "Ågesta GK",
+      "date": "2026-08-16T10:14:11.331Z",
+      "updatedAt": "2026-08-17T20:24:33.851Z",
+      "status": "completed"
     },
     {
       "id": "round-1786974209290",
@@ -91,11 +91,11 @@
       "status": "in_progress"
     },
     {
-      "id": "round-1786875251331",
-      "courseName": "Ågesta GK",
-      "date": "2026-08-16T10:14:11.331Z",
-      "updatedAt": "2026-08-17T20:24:33.851Z",
-      "status": "completed"
+      "id": "round-1786902871175",
+      "courseName": "Degeberga Widtskövle GK",
+      "date": "2026-08-16T17:54:31.175Z",
+      "updatedAt": "2026-08-18T12:54:35.955Z",
+      "status": "in_progress"
     }
   ]
 }
