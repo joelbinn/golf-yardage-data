@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-18T13:23:57.265Z",
+  "exportDate": "2026-08-18T13:51:20.020Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -1251,15 +1251,26 @@
               "lng": 0
             },
             "center": {
-              "lat": 0,
-              "lng": 0
+              "lat": 55.8266072,
+              "lng": 14.1268012
             },
             "back": {
               "lat": 0,
               "lng": 0
             }
           },
-          "objects": []
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787060058377",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.82646397400192,
+                "lng": 14.121046932492678
+              }
+            }
+          ]
         },
         {
           "number": 4,
@@ -1299,7 +1310,18 @@
               "lng": 0
             }
           },
-          "objects": []
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787060907439",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.8283731,
+                "lng": 14.1319285
+              }
+            }
+          ]
         },
         {
           "number": 6,
@@ -1562,8 +1584,8 @@
           "objects": []
         }
       ],
-      "createdAt": "2026-08-18T13:23:32.681Z",
-      "updatedAt": "2026-08-18T13:23:32.681Z"
+      "createdAt": "2026-08-18T13:48:31.014Z",
+      "updatedAt": "2026-08-18T13:48:31.014Z"
     }
   ],
   "rounds": [
@@ -3458,7 +3480,7 @@
       ],
       "status": "in_progress",
       "createdAt": "2026-08-17T13:43:29.290Z",
-      "updatedAt": "2026-08-18T13:21:10.108Z"
+      "updatedAt": "2026-08-18T13:24:13.699Z"
     },
     {
       "id": "round-1786902871175",
@@ -3466,7 +3488,7 @@
       "courseName": "Degeberga Widtskövle GK",
       "date": "2026-08-16T17:54:31.175Z",
       "unit": "meters",
-      "currentHole": 3,
+      "currentHole": 5,
       "scores": [
         {
           "holeNumber": 1,
@@ -3666,7 +3688,7 @@
       ],
       "status": "in_progress",
       "createdAt": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-18T13:23:47.548Z"
+      "updatedAt": "2026-08-18T13:51:01.541Z"
     }
   ]
 }
