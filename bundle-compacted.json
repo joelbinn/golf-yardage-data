@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-18T12:59:06.210Z",
+  "exportDate": "2026-08-18T13:07:03.937Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -1232,7 +1232,6 @@
             }
           ],
           "targetLine": {
-            "teeId": "tee-1786974063165",
             "waypoints": [
               {
                 "lat": 55.825792915898624,
@@ -3450,14 +3449,14 @@
       "courseName": "Degeberga Widtskövle GK",
       "date": "2026-08-16T17:54:31.175Z",
       "unit": "meters",
-      "currentHole": 1,
+      "currentHole": 2,
       "scores": [
         {
           "holeNumber": 1,
           "par": 5,
-          "strokes": 2,
-          "putts": 1,
-          "gir": true,
+          "strokes": 6,
+          "putts": 2,
+          "gir": false,
           "bunkerShots": 0,
           "chips": 0,
           "fairwayHit": "center"
@@ -3650,7 +3649,7 @@
       ],
       "status": "in_progress",
       "createdAt": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-18T12:58:42.833Z"
+      "updatedAt": "2026-08-18T13:06:42.059Z"
     }
   ]
 }
