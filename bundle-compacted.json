@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-19T21:20:48.934Z",
+  "exportDate": "2026-08-19T21:22:10.857Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -1863,19 +1863,39 @@
               "lng": 0
             },
             "center": {
-              "lat": 0,
-              "lng": 0
+              "lat": 55.82171341680652,
+              "lng": 14.126905941389046
             },
             "back": {
               "lat": 0,
               "lng": 0
             }
           },
-          "objects": []
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787174482940",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.82434305837428,
+                "lng": 14.123370051383974
+              }
+            }
+          ],
+          "targetLine": {
+            "teeId": "tee-1787174482940",
+            "waypoints": [
+              {
+                "lat": 55.823025344290045,
+                "lng": 14.125927408625667
+              }
+            ]
+          }
         }
       ],
-      "createdAt": "2026-08-19T21:20:26.691Z",
-      "updatedAt": "2026-08-19T21:20:26.691Z"
+      "createdAt": "2026-08-19T21:21:49.480Z",
+      "updatedAt": "2026-08-19T21:21:49.480Z"
     }
   ],
   "rounds": [
@@ -3581,12 +3601,204 @@
       }
     },
     {
+      "id": "round-1786974209290",
+      "courseId": "degeberga-widtsk-vle-gk",
+      "courseName": "Degeberga Widtskövle GK",
+      "date": "2026-08-17T13:43:29.290Z",
+      "unit": "meters",
+      "currentHole": 3,
+      "scores": [
+        {
+          "holeNumber": 1,
+          "par": 5,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 2,
+          "par": 4,
+          "strokes": 3,
+          "putts": 1,
+          "gir": true,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 3,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 4,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 5,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 6,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 7,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 8,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 9,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 10,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 11,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 12,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 13,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 14,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 15,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 16,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 17,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        },
+        {
+          "holeNumber": 18,
+          "par": 4,
+          "strokes": 0,
+          "putts": 0,
+          "gir": false,
+          "bunkerShots": 0,
+          "chips": 0
+        }
+      ],
+      "shots": [
+        {
+          "id": "shot-1787058883261",
+          "holeNumber": 2,
+          "startPosition": {
+            "lat": 55.826308311704146,
+            "lng": 14.119407279039226
+          },
+          "endPosition": {
+            "lat": 55.8256571,
+            "lng": 14.120884
+          },
+          "distanceMeters": 117,
+          "club": "Driver",
+          "timestamp": "2026-08-18T13:14:43.261Z"
+        }
+      ],
+      "status": "in_progress",
+      "createdAt": "2026-08-17T13:43:29.290Z",
+      "updatedAt": "2026-08-19T20:56:37.215Z"
+    },
+    {
       "id": "round-1786902871175",
       "courseId": "degeberga-widtsk-vle-gk",
       "courseName": "Degeberga Widtskövle GK",
       "date": "2026-08-16T17:54:31.175Z",
       "unit": "meters",
-      "currentHole": 10,
+      "currentHole": 12,
       "scores": [
         {
           "holeNumber": 1,
@@ -3802,199 +4014,7 @@
       ],
       "status": "in_progress",
       "createdAt": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-19T20:56:36.921Z"
-    },
-    {
-      "id": "round-1786974209290",
-      "courseId": "degeberga-widtsk-vle-gk",
-      "courseName": "Degeberga Widtskövle GK",
-      "date": "2026-08-17T13:43:29.290Z",
-      "unit": "meters",
-      "currentHole": 3,
-      "scores": [
-        {
-          "holeNumber": 1,
-          "par": 5,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 2,
-          "par": 4,
-          "strokes": 3,
-          "putts": 1,
-          "gir": true,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 3,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 4,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 5,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 6,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 7,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 8,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 9,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 10,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 11,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 12,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 13,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 14,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 15,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 16,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 17,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        },
-        {
-          "holeNumber": 18,
-          "par": 4,
-          "strokes": 0,
-          "putts": 0,
-          "gir": false,
-          "bunkerShots": 0,
-          "chips": 0
-        }
-      ],
-      "shots": [
-        {
-          "id": "shot-1787058883261",
-          "holeNumber": 2,
-          "startPosition": {
-            "lat": 55.826308311704146,
-            "lng": 14.119407279039226
-          },
-          "endPosition": {
-            "lat": 55.8256571,
-            "lng": 14.120884
-          },
-          "distanceMeters": 117,
-          "club": "Driver",
-          "timestamp": "2026-08-18T13:14:43.261Z"
-        }
-      ],
-      "status": "in_progress",
-      "createdAt": "2026-08-17T13:43:29.290Z",
-      "updatedAt": "2026-08-19T20:56:37.215Z"
+      "updatedAt": "2026-08-19T21:21:56.185Z"
     }
   ]
 }
