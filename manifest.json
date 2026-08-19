@@ -1,22 +1,22 @@
 {
-  "lastSyncedAt": "2026-08-19T07:11:38.646Z",
-  "syncCount": 37,
-  "compactedAt": "2026-08-19T07:11:38.647Z",
+  "lastSyncedAt": "2026-08-19T20:56:51.067Z",
+  "syncCount": 38,
+  "compactedAt": "2026-08-19T20:56:51.067Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
       "name": "Bro Hof Slott – Stadium Course",
-      "updatedAt": "2026-08-19T07:11:10.519Z"
+      "updatedAt": "2026-08-19T20:56:33.390Z"
     },
     {
       "id": "degeberga-widtsk-vle-gk",
       "name": "Degeberga Widtskövle GK",
-      "updatedAt": "2026-08-19T07:11:12.139Z"
+      "updatedAt": "2026-08-19T20:56:29.341Z"
     },
     {
       "id": "gesta",
       "name": "Ågesta GK",
-      "updatedAt": "2026-08-19T07:11:11.309Z"
+      "updatedAt": "2026-08-19T20:56:33.682Z"
     }
   ],
   "rounds": [
@@ -24,77 +24,77 @@
       "id": "round-1786788592670",
       "courseName": "Ågesta GK",
       "date": "2026-08-15T10:09:52.670Z",
-      "updatedAt": "2026-08-19T07:11:12.947Z",
+      "updatedAt": "2026-08-19T20:56:34.042Z",
       "status": "completed"
     },
     {
       "id": "round-1786791088532",
       "courseName": "Ågesta GK",
       "date": "2026-08-15T10:51:28.532Z",
-      "updatedAt": "2026-08-19T07:11:13.548Z",
+      "updatedAt": "2026-08-19T20:56:34.657Z",
       "status": "completed"
     },
     {
       "id": "round-1786824042404",
       "courseName": "Ågesta GK",
       "date": "2026-08-15T20:00:42.404Z",
-      "updatedAt": "2026-08-19T07:11:14.302Z",
+      "updatedAt": "2026-08-19T20:56:34.989Z",
       "status": "completed"
     },
     {
       "id": "round-1786824046204",
       "courseName": "Bro Hof Slott – Stadium Course",
       "date": "2026-08-15T20:00:46.204Z",
-      "updatedAt": "2026-08-19T07:11:14.905Z",
+      "updatedAt": "2026-08-19T20:56:35.309Z",
       "status": "completed"
     },
     {
       "id": "round-1786860410658",
       "courseName": "Ågesta GK",
       "date": "2026-08-16T06:06:50.658Z",
-      "updatedAt": "2026-08-19T07:11:15.507Z",
+      "updatedAt": "2026-08-19T20:56:35.609Z",
       "status": "completed"
     },
     {
       "id": "round-1786864385287",
       "courseName": "Ågesta GK",
       "date": "2026-08-16T07:13:05.287Z",
-      "updatedAt": "2026-08-19T07:11:16.215Z",
+      "updatedAt": "2026-08-19T20:56:35.861Z",
       "status": "completed"
     },
     {
       "id": "round-1786864772353",
       "courseName": "Ågesta GK",
       "date": "2026-08-16T07:19:32.353Z",
-      "updatedAt": "2026-08-19T07:11:16.929Z",
+      "updatedAt": "2026-08-19T20:56:36.129Z",
       "status": "completed"
     },
     {
       "id": "round-1786866294360",
       "courseName": "Ågesta GK",
       "date": "2026-08-16T07:44:54.360Z",
-      "updatedAt": "2026-08-19T07:11:17.862Z",
+      "updatedAt": "2026-08-19T20:56:36.404Z",
       "status": "completed"
     },
     {
       "id": "round-1786875251331",
       "courseName": "Ågesta GK",
       "date": "2026-08-16T10:14:11.331Z",
-      "updatedAt": "2026-08-19T07:11:18.435Z",
+      "updatedAt": "2026-08-19T20:56:36.671Z",
       "status": "completed"
     },
     {
       "id": "round-1786902871175",
       "courseName": "Degeberga Widtskövle GK",
       "date": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-19T07:11:19.911Z",
+      "updatedAt": "2026-08-19T20:56:36.921Z",
       "status": "in_progress"
     },
     {
       "id": "round-1786974209290",
       "courseName": "Degeberga Widtskövle GK",
       "date": "2026-08-17T13:43:29.290Z",
-      "updatedAt": "2026-08-19T07:11:19.293Z",
+      "updatedAt": "2026-08-19T20:56:37.215Z",
       "status": "in_progress"
     }
   ]
