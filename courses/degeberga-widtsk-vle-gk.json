@@ -7,7 +7,7 @@
     {
       "number": 1,
       "par": 5,
-      "handicapIndex": 8,
+      "handicapIndex": 9,
       "green": {
         "front": {
           "lat": 55.82438181728358,
@@ -249,7 +249,7 @@
     {
       "number": 6,
       "par": 4,
-      "handicapIndex": 6,
+      "handicapIndex": 3,
       "green": {
         "front": {
           "lat": 0,
@@ -288,8 +288,8 @@
     },
     {
       "number": 7,
-      "par": 4,
-      "handicapIndex": 7,
+      "par": 3,
+      "handicapIndex": 15,
       "green": {
         "front": {
           "lat": 0,
@@ -328,8 +328,8 @@
     },
     {
       "number": 8,
-      "par": 4,
-      "handicapIndex": 8,
+      "par": 5,
+      "handicapIndex": 11,
       "green": {
         "front": {
           "lat": 0,
@@ -373,7 +373,7 @@
     {
       "number": 9,
       "par": 4,
-      "handicapIndex": 9,
+      "handicapIndex": 1,
       "green": {
         "front": {
           "lat": 0,
@@ -460,15 +460,35 @@
           "lng": 0
         },
         "center": {
-          "lat": 0,
-          "lng": 0
+          "lat": 55.8267650219474,
+          "lng": 14.13089672396293
         },
         "back": {
           "lat": 0,
           "lng": 0
         }
       },
-      "objects": []
+      "objects": [],
+      "tees": [
+        {
+          "id": "tee-1787072427462",
+          "name": "Gul",
+          "color": "#eab308",
+          "position": {
+            "lat": 55.82439729890438,
+            "lng": 14.130515456199648
+          }
+        }
+      ],
+      "targetLine": {
+        "teeId": "tee-1787072427462",
+        "waypoints": [
+          {
+            "lat": 55.826023083597434,
+            "lng": 14.131028811428655
+          }
+        ]
+      }
     },
     {
       "number": 12,
@@ -611,6 +631,6 @@
       "objects": []
     }
   ],
-  "createdAt": "2026-08-18T17:00:06.337Z",
-  "updatedAt": "2026-08-19T07:11:12.139Z"
+  "createdAt": "2026-08-19T20:56:29.341Z",
+  "updatedAt": "2026-08-19T20:56:29.341Z"
 }
