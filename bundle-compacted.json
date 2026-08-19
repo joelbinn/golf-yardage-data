@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-19T07:11:39.790Z",
+  "exportDate": "2026-08-19T20:56:51.963Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -693,7 +693,7 @@
         }
       ],
       "createdAt": "2026-08-15T20:00:40.914Z",
-      "updatedAt": "2026-08-19T07:11:10.519Z"
+      "updatedAt": "2026-08-19T20:56:33.390Z"
     },
     {
       "id": "degeberga-widtsk-vle-gk",
@@ -704,7 +704,7 @@
         {
           "number": 1,
           "par": 5,
-          "handicapIndex": 8,
+          "handicapIndex": 9,
           "green": {
             "front": {
               "lat": 55.82438181728358,
@@ -946,7 +946,7 @@
         {
           "number": 6,
           "par": 4,
-          "handicapIndex": 6,
+          "handicapIndex": 3,
           "green": {
             "front": {
               "lat": 0,
@@ -985,8 +985,8 @@
         },
         {
           "number": 7,
-          "par": 4,
-          "handicapIndex": 7,
+          "par": 3,
+          "handicapIndex": 15,
           "green": {
             "front": {
               "lat": 0,
@@ -1025,8 +1025,8 @@
         },
         {
           "number": 8,
-          "par": 4,
-          "handicapIndex": 8,
+          "par": 5,
+          "handicapIndex": 11,
           "green": {
             "front": {
               "lat": 0,
@@ -1070,7 +1070,7 @@
         {
           "number": 9,
           "par": 4,
-          "handicapIndex": 9,
+          "handicapIndex": 1,
           "green": {
             "front": {
               "lat": 0,
@@ -1157,15 +1157,35 @@
               "lng": 0
             },
             "center": {
-              "lat": 0,
-              "lng": 0
+              "lat": 55.8267650219474,
+              "lng": 14.13089672396293
             },
             "back": {
               "lat": 0,
               "lng": 0
             }
           },
-          "objects": []
+          "objects": [],
+          "tees": [
+            {
+              "id": "tee-1787072427462",
+              "name": "Gul",
+              "color": "#eab308",
+              "position": {
+                "lat": 55.82439729890438,
+                "lng": 14.130515456199648
+              }
+            }
+          ],
+          "targetLine": {
+            "teeId": "tee-1787072427462",
+            "waypoints": [
+              {
+                "lat": 55.826023083597434,
+                "lng": 14.131028811428655
+              }
+            ]
+          }
         },
         {
           "number": 12,
@@ -1308,8 +1328,8 @@
           "objects": []
         }
       ],
-      "createdAt": "2026-08-18T17:00:06.337Z",
-      "updatedAt": "2026-08-19T07:11:12.139Z"
+      "createdAt": "2026-08-19T20:56:29.341Z",
+      "updatedAt": "2026-08-19T20:56:29.341Z"
     },
     {
       "id": "gesta",
@@ -1727,7 +1747,7 @@
         }
       ],
       "createdAt": "2026-08-16T07:12:21.788Z",
-      "updatedAt": "2026-08-19T07:11:11.309Z"
+      "updatedAt": "2026-08-19T20:56:33.682Z"
     }
   ],
   "rounds": [
@@ -1905,7 +1925,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T10:09:52.670Z",
-      "updatedAt": "2026-08-19T07:11:12.947Z",
+      "updatedAt": "2026-08-19T20:56:34.042Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2094,7 +2114,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T10:51:28.532Z",
-      "updatedAt": "2026-08-19T07:11:13.548Z",
+      "updatedAt": "2026-08-19T20:56:34.657Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2283,7 +2303,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T20:00:42.404Z",
-      "updatedAt": "2026-08-19T07:11:14.302Z",
+      "updatedAt": "2026-08-19T20:56:34.989Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2472,7 +2492,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-15T20:00:46.204Z",
-      "updatedAt": "2026-08-19T07:11:14.905Z",
+      "updatedAt": "2026-08-19T20:56:35.309Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2661,7 +2681,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T06:06:50.658Z",
-      "updatedAt": "2026-08-19T07:11:15.507Z",
+      "updatedAt": "2026-08-19T20:56:35.609Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -2850,7 +2870,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T07:13:05.287Z",
-      "updatedAt": "2026-08-19T07:11:16.215Z",
+      "updatedAt": "2026-08-19T20:56:35.861Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -3039,7 +3059,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T07:19:32.353Z",
-      "updatedAt": "2026-08-19T07:11:16.929Z",
+      "updatedAt": "2026-08-19T20:56:36.129Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -3228,7 +3248,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T07:44:54.360Z",
-      "updatedAt": "2026-08-19T07:11:17.862Z",
+      "updatedAt": "2026-08-19T20:56:36.404Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -3417,7 +3437,7 @@
       "shots": [],
       "status": "completed",
       "createdAt": "2026-08-16T10:14:11.331Z",
-      "updatedAt": "2026-08-19T07:11:18.435Z",
+      "updatedAt": "2026-08-19T20:56:36.671Z",
       "stats": {
         "totalScore": 0,
         "totalPar": 0,
@@ -3654,7 +3674,7 @@
       ],
       "status": "in_progress",
       "createdAt": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-19T07:11:19.911Z"
+      "updatedAt": "2026-08-19T20:56:36.921Z"
     },
     {
       "id": "round-1786974209290",
@@ -3846,7 +3866,7 @@
       ],
       "status": "in_progress",
       "createdAt": "2026-08-17T13:43:29.290Z",
-      "updatedAt": "2026-08-19T07:11:19.293Z"
+      "updatedAt": "2026-08-19T20:56:37.215Z"
     }
   ]
 }
