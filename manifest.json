@@ -1,7 +1,7 @@
 {
-  "lastSyncedAt": "2026-08-19T21:19:38.237Z",
-  "syncCount": 44,
-  "compactedAt": "2026-08-19T21:19:38.237Z",
+  "lastSyncedAt": "2026-08-19T21:20:48.132Z",
+  "syncCount": 45,
+  "compactedAt": "2026-08-19T21:20:48.132Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -16,7 +16,7 @@
     {
       "id": "degeberga-widtsk-vle-gk",
       "name": "Degeberga Widtskövle GK",
-      "updatedAt": "2026-08-19T21:19:17.262Z"
+      "updatedAt": "2026-08-19T21:20:26.691Z"
     }
   ],
   "rounds": [
