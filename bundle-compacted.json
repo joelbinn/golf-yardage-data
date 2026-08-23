@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportDate": "2026-08-23T16:23:13.583Z",
+  "exportDate": "2026-08-23T16:47:00.499Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -3830,7 +3830,7 @@
       "courseName": "Degeberga Widtskövle GK",
       "date": "2026-08-17T13:43:29.290Z",
       "unit": "meters",
-      "currentHole": 6,
+      "currentHole": 8,
       "scores": [
         {
           "holeNumber": 1,
@@ -4014,7 +4014,7 @@
       ],
       "status": "in_progress",
       "createdAt": "2026-08-17T13:43:29.290Z",
-      "updatedAt": "2026-08-23T16:22:46.954Z"
+      "updatedAt": "2026-08-23T16:46:41.250Z"
     }
   ]
 }
