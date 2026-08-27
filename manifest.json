@@ -1,7 +1,7 @@
 {
-  "lastSyncedAt": "2026-08-23T17:02:03.662Z",
-  "syncCount": 54,
-  "compactedAt": "2026-08-23T17:02:03.662Z",
+  "lastSyncedAt": "2026-08-27T13:02:36.961Z",
+  "syncCount": 55,
+  "compactedAt": "2026-08-27T13:02:36.961Z",
   "courses": [
     {
       "id": "bro-hof-stadium",
@@ -84,17 +84,17 @@
       "status": "completed"
     },
     {
-      "id": "round-1786902871175",
-      "courseName": "Degeberga Widtskövle GK",
-      "date": "2026-08-16T17:54:31.175Z",
-      "updatedAt": "2026-08-23T15:40:29.956Z",
-      "status": "in_progress"
-    },
-    {
       "id": "round-1786974209290",
       "courseName": "Degeberga Widtskövle GK",
       "date": "2026-08-17T13:43:29.290Z",
       "updatedAt": "2026-08-23T17:01:41.986Z",
+      "status": "in_progress"
+    },
+    {
+      "id": "round-1786902871175",
+      "courseName": "Degeberga Widtskövle GK",
+      "date": "2026-08-16T17:54:31.175Z",
+      "updatedAt": "2026-08-27T13:01:59.557Z",
       "status": "in_progress"
     }
   ]
